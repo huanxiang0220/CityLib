@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="PrivacyStatement">Privacy Statement</string>
+    <string name="privacy_disagree">Disagree</string>
+    <string name="privacy_agreeAndContinue">Agree And Continue</string>
+    <string name="privacy"><![CDATA[
+    &emsp We attach great importance to your personal information and privacy protection. Please read carefully<font color="#cc2929">《Privacy Policy》</font>The terms of。
+In order to get the latest order receiving information, we may need to collect your current location information and personal information, including but not limited to device information, operation log, etc。<br>
+    &emsp If you agree and accept all terms of the <font color="#cc2929">《Privacy Policy》</font>，Please click "agree and continue" to accept our service. If you have any questions, please contact us at cityorder89@gmail.com。
+]]></string>
+
+</resources>

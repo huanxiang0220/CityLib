@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="pickerview_cancel">ဖျက်သိမ်း</string>
+	<string name="pickerview_submit">သတ်မှတ်</string>
+	<string name="pickerview_year">ခုနှစ်</string>
+	<string name="pickerview_month">လ</string>
+	<string name="pickerview_day">နေ့</string>
+	<string name="pickerview_hours">ဘယ်အချိန်မှာ</string>
+	<string name="pickerview_minutes">ခှဲခွား</string>
+	<string name="pickerview_seconds">ဒုတိယ</string>
+</resources>

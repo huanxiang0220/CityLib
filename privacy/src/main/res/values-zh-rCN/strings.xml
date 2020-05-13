@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="PrivacyStatement">隐私说明</string>
+    <string name="privacy_disagree">不同意</string>
+    <string name="privacy_agreeAndContinue">同意并继续</string>
+    <string name="privacy"><![CDATA[
+    &emsp 我们非常重视您的个人信息和隐私保护。请务必审慎阅读<font color="#cc2929">《隐私政策》</font>的各项条款。
+为了你可以不断获取最新的接单信息，我们可能需要不断收集您当前的位置信息，同时可能需要向您收集相应的个人信息，包括但不限于设备信息、操作日志等。<br>
+    &emsp 如您同意并接受<font color="#cc2929">《隐私政策》</font>的全部条款，请点击“同意并继续”开始接受我们的服务。如您有任何疑问，可通过发邮件至cityorder89@gmail.com与我们联系。
+]]></string>
+
+</resources>

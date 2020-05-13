@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="pickerview_cancel">ยกเลิก</string>
+	<string name="pickerview_submit">กำหนด</string>
+	<string name="pickerview_year">ปี</string>
+	<string name="pickerview_month">เดือน</string>
+	<string name="pickerview_day">วัน</string>
+	<string name="pickerview_hours">เมื่อ</string>
+	<string name="pickerview_minutes">หาร</string>
+	<string name="pickerview_seconds">ที่สอง</string>
+</resources>
